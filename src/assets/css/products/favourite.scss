@@ -1,0 +1,23 @@
+.m-products-favourite{
+    border:1px solid #ccc;
+    background-color: #fff;
+    margin-left: 15px;
+    dt{
+        font-size: 16px;
+        font-weight: bold;
+        margin: 15px;
+    }
+    dd{
+        padding:15px;
+        .light{
+            color:#999;
+        }
+        .bold{
+            color:lightcoral;
+            span{
+                font-size: 25px;
+            }
+        }
+    }
+    
+}
